@@ -1,0 +1,14 @@
+# NOTEBOOK
+*.ipynb
+
+# VIRTUAL ENV
+
+futebol-analysis/
+
+# ENVIRONMENT VARIABLES
+
+.env
+
+# TEST DATASETS
+
+# *.csv
