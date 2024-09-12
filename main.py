@@ -114,7 +114,7 @@ df_fla_overview_ano = pd.DataFrame({
 fig, ax = plt.subplots()
 
 sns.lineplot(x='ano', y = 'derrotas', data = df_fla_overview_ano, ax = ax)
-ax.set_title('Vitorias Por Ano')
+# ax.set_title('Vitorias Por Ano')
 
-st.title('Hello Mãe!')
+# st.title('DataMengo')
 st.pyplot(fig)

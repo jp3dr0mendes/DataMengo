@@ -1,5 +1,5 @@
 # NOTEBOOK
-*.ipynb
+# *.ipynb
 
 # VIRTUAL ENV
 
@@ -10,5 +10,5 @@ futebol-analysis/
 .env
 
 # TEST DATASETS
-
+archive/
 # *.csv
